@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ebkzando
+- 👀 I’m interested in c++ for video game cheats
+- 🌱 I’m currently learning coding
+- 💞️ I’m looking to collaborate on cs2 cheats
